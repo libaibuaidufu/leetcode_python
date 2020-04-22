@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="074d86fe-40ef-43d9-9e86-fb07234a603c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/leetcode_python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/Insertion_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/bubble_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/change_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/heap_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/quick_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/文档/常用排序.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fib.py" beforeDir="false" afterPath="$PROJECT_DIR$/fib.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,11 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="25">
               <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fib.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="491">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -53,13 +47,14 @@
       <list>
         <option value="$PROJECT_DIR$/sort/heap_sort.py" />
         <option value="$PROJECT_DIR$/3.py" />
-        <option value="$PROJECT_DIR$/fib.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/fib.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="719" />
+    <option name="y" value="87" />
     <option name="width" value="1201" />
     <option name="height" value="1047" />
   </component>
@@ -197,19 +192,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587517785905</updated>
-      <workItem from="1587517787122" duration="3114000" />
+      <workItem from="1587517787122" duration="3475000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3114000" />
+    <option name="totallyTimeSpent" value="3475000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="719" y="0" width="1201" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27939877" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1693462" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
@@ -223,7 +218,7 @@
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32912844" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Run" order="12" visible="true" weight="0.3059096" />
+      <window_info anchor="bottom" id="Run" order="12" visible="true" weight="0.3027523" />
       <window_info anchor="right" id="Remote Host" order="0" />
       <window_info anchor="right" id="SciView" order="1" />
       <window_info anchor="right" id="Database" order="2" />
@@ -283,17 +278,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
         </state>
       </provider>
     </entry>
